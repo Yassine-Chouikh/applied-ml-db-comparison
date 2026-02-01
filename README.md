@@ -1,6 +1,8 @@
 # applied-ml-db-comparison
 Comparative analysis of machine learning algorithms and database systems with applications to health data.
 
+If you’re reading this as part of my application:
+thanks for checking it out :)
 
 Comparative Analysis of Machine Learning Algorithms and Database Systems  
 **Random Forest vs K-Means | PostgreSQL vs MongoDB**
